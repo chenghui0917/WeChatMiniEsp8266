@@ -26,3 +26,10 @@
  ---------------------------
  
  ![Alt text](png/screen.png)
+ 
+ 
+ 开源社区提供了小程序 MQTT 接入的 Demo：https://github.com/iAoe444/WeChatMiniEsp8266
+
+(opens new window) 下载解压到一个文件夹后，用微信小程序开发者工具，打开 index.js 文件，将 MQTT 地址、用户名和密码改为实际参数即可。
+
+按照以上 3 步的安装配置，你的微信小程序已经能够成功连接到 EMQ X 服务器了。
